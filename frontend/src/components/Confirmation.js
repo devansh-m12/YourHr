@@ -33,7 +33,7 @@ function Confirmation() {
     }
 
     try {
-      const response = await axios.post('http://localhost:5000/api/signup', submitData, {
+      const response = await axios.post('https://yourhr-dkor.onrender.com/api/signup', submitData, {
         headers: { 'Content-Type': 'multipart/form-data' },
       });
       navigate('/thank-you');
