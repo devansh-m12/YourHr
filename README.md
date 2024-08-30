@@ -100,4 +100,20 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ---
 
+## DEMO 
+### Home Page
+![image](https://github.com/user-attachments/assets/75fcdd0a-22e5-48b8-a9a8-f8cd4c8bcf76)
+
+### Signup Page
+![image](https://github.com/user-attachments/assets/7268956d-6a68-4561-8a2c-b26174bfb9c3)
+
+### Confirmation Page
+![image](https://github.com/user-attachments/assets/987d136f-9adc-4c5e-981c-777b8e129be7)
+
+### ThankYou Page
+![image](https://github.com/user-attachments/assets/dc0a9d52-eae0-4ce4-b98a-96c3afb0f4da)
+
+
+
+
 **Note:** This project is for educational purposes and may not be suitable for production use without further enhancements and security improvements.
