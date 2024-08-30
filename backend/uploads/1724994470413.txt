@@ -1,0 +1,8 @@
+admin
+1. if self creds, user can access, view, edit -- DONE
+2. if cygnus creds, credentials will not be visible anywhere -- DONE
+3. options are to be shown based on features enabled not credentials -- DONE
+4. auto set cygnus creds for tenants if live sessions is enabled 
+5. enable live sessions and webinar from superadmin if not done already -- DONE
+
+
